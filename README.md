@@ -1,4 +1,4 @@
 # Bootstrap-4-Full-Screen-Image-Slider
 
 
-[I'm an inline-style link](https://www.google.com)
+[Full Screen Image Slider](https://giuseppecagnazzo.github.io/Bootstrap-4-Full-Screen-Image-Slider/)
